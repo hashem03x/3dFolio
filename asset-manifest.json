@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/3dFolio/static/css/main.ac6b85b0.css",
+    "main.js": "/3dFolio/static/js/main.27d85466.js",
+    "static/media/tripguide.png": "/3dFolio/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/kasper.png": "/3dFolio/static/media/kasper.aaf9c48cf79deab638f7.png",
+    "static/media/worldwise.png": "/3dFolio/static/media/worldwise.efa3a92189e1c5baff09.png",
+    "static/media/herobg.png": "/3dFolio/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/wastend.png": "/3dFolio/static/media/wastend.37c20e81556d208d3254.png",
+    "static/media/chain.png": "/3dFolio/static/media/chain.d12037f20ddfb7ecf1dc.png",
+    "static/media/web.png": "/3dFolio/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/backend.png": "/3dFolio/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/3dFolio/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/3dFolio/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/starbucks.png": "/3dFolio/static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/github.png": "/3dFolio/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/close.svg": "/3dFolio/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
+    "static/media/menu.svg": "/3dFolio/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
+    "static/media/logo.svg": "/3dFolio/static/media/logo.2fc4c1789e5dc081071e30d7281c9866.svg",
+    "static/media/threejs.svg": "/3dFolio/static/media/threejs.a02bc572667de670fbfb2173c0331d05.svg",
+    "index.html": "/3dFolio/index.html",
+    "main.ac6b85b0.css.map": "/3dFolio/static/css/main.ac6b85b0.css.map",
+    "main.27d85466.js.map": "/3dFolio/static/js/main.27d85466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac6b85b0.css",
+    "static/js/main.27d85466.js"
+  ]
+}
