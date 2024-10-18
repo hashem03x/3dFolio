@@ -3,7 +3,6 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Experince from "./components/Experince";
-import Feedback from "./components/Feedback";
 import Hero from "./components/Hero";
 import Tech from "./components/Tech";
 import Works from "./components/Works";
@@ -22,7 +21,6 @@ function App() {
         <Works />
         <Contact />
         <StarsCanvas />
-        <Feedback />
       </div>
     </BrowserRouter>
   );
